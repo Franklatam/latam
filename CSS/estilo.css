@@ -1,0 +1,41 @@
+.titulo{
+	color:white;
+	
+	background:purple;
+	display:inline-block;
+	padding:18px 900px 20px 620px;
+	border-radius: 20px;
+	font-size: 25px;
+	max-width: 100%;
+
+
+}
+
+
+    .text{
+    	color:purple;
+
+    	padding-left: 200px;
+    	font-size: 50px;
+
+    	max-width: 100%;
+
+
+
+    }
+   
+
+
+[class="rojo"]{
+	color:blue;
+
+}
+
+ [class="imagen bella"]{
+ 	max-width: 500px;
+ 		max-width: 100%
+ 	}
+
+
+
+ }
